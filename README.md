@@ -59,7 +59,7 @@ programming, and creating projects that solve real-world problems.
 
 ## 📫 Contact Me
 
-- 📧 Email: **your@email.com**
+- 📧 Email: gumapaselgen0@gmail.com
 - 💼 LinkedIn: **YOUR LINKEDIN**
 - 🌐 Portfolio: **YOUR WEBSITE**
 - 🐙 GitHub: **@YOUR_USERNAME**
