@@ -54,7 +54,7 @@ Exploring **AI, applications and new technologies**.
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark)
+[GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark)
 
 ---
 
