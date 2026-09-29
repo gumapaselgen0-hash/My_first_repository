@@ -89,7 +89,7 @@ Exploring **AI, applications and new technologies**.
 
 📧 **Email:** [gumapaselgen0@gmail.com](mailto:gumapaselgen0@gmail.com)
 
-🐙 **GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+🐙 **GitHub:** [gumapaselgen0@gmail.com](https://github.com/YOUR_USERNAME)
 
 ---
 
